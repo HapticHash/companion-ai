@@ -2,6 +2,20 @@
 
 This application is built using Next.js 13, React, Tailwind, Prisma and Stripe.
 
+## Screenshots
+
+![Companion AI - Login screen | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/login_screen.png)
+
+![Companion AI - Main screen - Dark | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/main_screen_dark.png)
+
+![Companion AI - Main screen - Light | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/main_screen_light.png)
+
+![Companion AI - Create companion screen | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/create_companion_screen.png)
+
+![Companion AI - Conversation screen | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/conv_screen.png)
+
+![Companion AI - Upgrade modal screen | haptichash](https://raw.githubusercontent.com/HapticHash/companion-ai/master/public/screenshots/upgrade_modal.png)
+
 ## Features:
 
 - Tailwind design
